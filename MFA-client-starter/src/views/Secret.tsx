@@ -1,5 +1,5 @@
 const Secret = () => {
-  return <div>Secret</div>;
+  return <div>Welcome!</div>;
 };
 
 export default Secret;
